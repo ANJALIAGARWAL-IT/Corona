@@ -4,4 +4,5 @@
 3. There are no outliers
 4. Univariate and Bivariate analysis is done
 5. Logistic Regression is used
-LINK-https://covid-predictior.herokuapp.com/
+6. Used Streamlit Library, an open-source framework
+To predict if you are suffering from CoronaVirus, then [Click Here](https://virus-19.herokuapp.com/)
